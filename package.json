@@ -3,9 +3,6 @@
   "version": "0.1.1",
   "description": "A React table component designed to allow presenting thousands of rows of data.",
   "main": "main.js",
-  "peerDependencies": {
-    "react": "0.12.x"
-  },
   "devDependencies": {
     "autoprefixer": "^5.0.0",
     "bundle-loader": "^0.5.2",
@@ -25,8 +22,8 @@
     "object-assign": "^2.0.0",
     "postcss": "^4.0.2",
     "postcss-custom-properties": "^3.0.0",
-    "react": "^0.13.0",
-    "react-tools": "^0.13.0",
+    "react": ">=0.12.2",
+    "react-tools": ">=0.12.2",
     "style-loader": "^0.8.3",
     "url-loader": "^0.5.5",
     "webpack": "^1.4.15",
