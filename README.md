@@ -1,3 +1,5 @@
+Fork that gives support for React 0.13
+
 Fixed Data Tables for React
 ====================================
 
